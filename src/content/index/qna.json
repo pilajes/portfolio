@@ -1,32 +1,22 @@
 [
   {
-    "question": "Where are you currently studying?",
-    "answer": "I am currently studying computer science at the Velammal College of Engineering and Technology.",
+    "question": "What happens if my documents are not Section 508 Compliant?",
+    "answer": "Failure to make your documents Section 508 compliant may result in legal consequences, especially if you are a federal agency or working with federal contracts. Consequences may include: \n 1. Legal Action: Non-compliance can lead to lawsuits or legal actions, as Section 508 is a federal law. \n 2. Financial Penalties: Fines and financial penalties may be imposed for violating accessibility standards. \n 3. Reputational Damage: Non-compliance can harm your organization's reputation, impacting trust and relationships. \n 4. Exclusion: Inaccessibility may exclude individuals with disabilities from accessing important information, limiting your audience.",
     "isOpen": false
-
   },
   {
-    "question": "Have you worked on any projects?",
-    "answer": "Yes, in addition to my personal projects and hobbies, I have worked on several projects, both individually and in teams. These projects have allowed me to apply theoretical knowledge to real-world scenarios, honing my practical skills in software development, web technologies, and computer networks.",
+    "question": "What type of documents need to be made Section 508 Compliant?",
+    "answer": "Documents that need to be made Section 508 compliant typically include electronic and information technology produced or used by federal agencies. This encompasses a wide range of documents, such as:\n\n1. Word Documents: Text documents, reports, and other written content.\n2. PDFs: Portable Document Format files commonly used for manuals, forms, and publications.\n3. Presentations: Slideshows and presentations created using software like PowerPoint.\n4. Spreadsheets: Excel sheets and other data-driven documents.\n5. Emails: Electronic communications and newsletters distributed by federal agencies.\n\nHere at 508 Pro, we can remediate everything listed above - and more - Section 508 Compliant.",
     "isOpen": false
-
   },
   {
-    "question": "What extracurricular activities have you participated in?",
-    "answer": "I have actively participated in extracurricular activities and technical events on campus, which have provided me with opportunities to expand my knowledge, network with fellow students, and enhance my leadership and communication skills.",
+    "question": "What is Digital Accessibility?",
+    "answer": "Digital accessibility ensures that websites, apps, and online content are usable by everyone, including those with disabilities. It focuses on creating inclusive digital experiences, making information and functionality accessible to all users, regardless of their abilities.",
     "isOpen": false
-
   },
   {
-    "question": "Can we recruit you?",
-    "answer": "Yes, I am currently looking for jobs and I have also done several projects as a hobby.",
+    "question": "How do I make my documents Section 508 compliant?",
+    "answer": "Through 508 Pro you can remediate your documents to be compliant within a reasonable timeframe by submitting an interest form to get a quote today!",
     "isOpen": false
-
-  },
-  {
-    "question": "How do you stay updated with the latest developments in your field?",
-    "answer": "I believe in continuous learning and staying updated with the latest trends. I regularly read tech blogs, follow industry experts on social media, and participate in online courses and workshops to enhance my knowledge and skills. I am also actively involved in developing new projects that allow me to apply and expand my expertise.",
-    "isOpen": false
-
   }
 ]

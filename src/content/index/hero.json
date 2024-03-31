@@ -1,7 +1,7 @@
 {
 	"intro": {
-		"start": "const myName = () =>",
-		"end": "Hey there!, my name is",
+		"start": "PDFs, PPTs, Word Docs and more!",
+		"end": "Get compliant today :)",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
@@ -11,21 +11,21 @@
 	},
 
 	"header": {
-		"name": "Muhammad Fiaz.",
-		"usp": "Passionate Full Stack Developer."
+		"name": "508Pro",
+		"usp": "Digital Documentation Accessibility Remediation"
 	},
 
-	"paragraph": "From an early age, my fascination with programming and computers ignited a lifelong passion. Constantly learning and developing, I strive to make a profound impact through innovative solutions and visionary ideas, shaping the future with my unwavering commitment to technological advancement. ",
+	"paragraph": "Section 508 refers to a US federal law that mandates federal agencies to make their electronic and information technology accessible to people with disabilities. It sets standards for accessibility, aiming to eliminate barriers in digital communication and ensure equal access for individuals with disabilities in the federal sector.",
 
 	"buttons": {
 		"primary": {
-			"title": "Hire Me",
-			"url": "mailto:s.muhammadfiaz2003@gmail.com",
+			"title": "Contact Us",
+			"url": "mailto:mailto:sgpickett@508docs.pro",
 			"leaveSite": false
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "https://www.linkedin.com/in/muhammad-fiaz-/",
+			"url": "https://www.linkedin.com/in/harry-irvine-iv/",
 			"leaveSite": "true"
 		}
 	}

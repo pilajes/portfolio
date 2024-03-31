@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { Player } from '@lottiefiles/react-lottie-player';
-import HCaptcha from '@hcaptcha/react-hcaptcha';
 import ConfettiComponent from './../intro/confetti';
 import { checkForUpdates, VersionDetails } from './checkforupdates';
 import settings from '../../../src/content/_settings.json';
@@ -126,10 +125,6 @@ const DevelopmentNotice: React.FC = () => {
                             {!isVerified ? (
                                 <>
                                     <div style={{ marginBottom: '10px', marginLeft: '20px' }}>
-                                        <HCaptcha
-                                            sitekey="d27bf471-6339-4603-b63f-5ab5fdd96ace"
-                                            onVerify={handleVerify}
-                                        />
                                     </div>
                                     <p style={{ fontSize: '12px', color: 'red', marginBottom: '10px' }}>
                                         Please complete the verification.

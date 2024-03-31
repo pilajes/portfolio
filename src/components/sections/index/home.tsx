@@ -19,11 +19,19 @@ export default function Home() {
 		<Section classProp={about.section}>
 			<Container spacing={['verticalXXXLrg']}>
 				<SectionTitle
-					title="About Me"
-					preTitle="Synopsis"
-					subTitle="From an early age, my passion for creating new things has been a driving force. Immersed in the world of design and coding, I honed my skills and explored innovative solutions. This love for creation has shaped my career, fueling my desire to bring impactful and visually stunning projects to life. With meticulous attention to detail and a keen eye for aesthetics, I strive to craft exceptional and memorable experiences."
+					title="About Us"
+					preTitle=""
+					subTitle="Section 508 Pro was founded by a pair of friends who saw the need for digital inclusivity for those who were unable to experience digitized documentation the way most did.
+					With the goal of making government documentation available and accessible to all, they set out to provide a service that would be worthy of any time and resources invested. 
+					
+					As a former Digital Accessibilities Intern at the University of Maryland, one of the founding members began in 2018 contracting out Section 508 Documentation Remediation services to the National Park Service (NPS) of the Department of the Interior (DOI). The relationship has continued to this day and with more resources, services have now been expanded to include all other government agencies
+					Here at 508 Pro we specialize in Section 508 Documentation Remediation to ensure inclusivity and adherence to legal requirements.
+
+					Need Section 508 support for a document? 
+					We got you covered, get a quote today!
+					"
 				/>
-				<section className={about.content}>
+				{/* <section className={about.content}>
 					<div className={about.image}>
 						<Image src="https://avatars.githubusercontent.com/u/75434191?v=4" width={600} height={800} alt="Muhammad Fiaz"   loading="eager" />
 					</div>
@@ -43,8 +51,8 @@ export default function Home() {
 							copy="Development and project execution are my passion. I thrive on the challenges of bringing ideas to life through coding and turning concepts into functional, robust solutions. With meticulous planning, efficient workflows, and a keen eye for detail, I ensure successful project delivery, meeting objectives and exceeding expectations."
 						/>
 					</div>
-				</section>
-				<section className={about.content}>
+				</section> */}
+				{/* <section className={about.content}>
 					<div className={about.copy}>
 						<CopyBlock
 							title="Security and Privacy"
@@ -74,7 +82,7 @@ export default function Home() {
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`} invertedColor={undefined}						/>
 					</div>
-				</section>
+				</section> */}
 			</Container>
 		</Section>
 	)

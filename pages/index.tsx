@@ -37,15 +37,14 @@ export default function HomePage({ spacing }: HomePageProps) {
 	const renderContent = () => (
 		<div>
 			<Hero />
-			<Looking />
+			{/* <Looking /> */}
 			<About />
-			<GithubGraphSection/>
+			{/* <GithubGraphSection/> */}
 
 			<FeaturedProjects />
-			<Technical />
+			{/* <Technical /> */}
 			{/*	<TimeLine/> -> Still In Development*/}
-			<Career />
-			<QnA />
+			{/* <Career /> */}
 		</div>
 	);
 
