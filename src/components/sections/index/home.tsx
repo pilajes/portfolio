@@ -1,7 +1,7 @@
 
 // Core packages
 import Image from 'next/image'
-
+import ReactQuill from 'react-quill';
 // Imports
 import Section from '../../structure/section';
 import Container from '../../structure/container';
@@ -30,6 +30,7 @@ export default function Home() {
 					Need Section 508 support for a document? 
 					We got you covered, get a quote today!
 					"
+					
 				/>
 				{/* <section className={about.content}>
 					<div className={about.image}>

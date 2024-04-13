@@ -57,10 +57,10 @@ export default function Hero() {
 						{content.paragraph}
 					</p>
 				</section>
-				<section style={{ position: 'relative' }}>
+				{/* <section style={{ position: 'relative' }}>
 					<button
 						className={`button ${button.primary}`}
-						onClick={() => (window.location = 'mailto:contact@muhammadfiaz.com')}
+						onClick={() => (window.location = 'mailto:sgpickett@508docs.pro')}
 						onMouseEnter={() => setIsHiremeTooltipVisible(true)}
 						onMouseLeave={() => setIsHiremeTooltipVisible(false)}
 					>
@@ -90,7 +90,7 @@ export default function Hero() {
 
 						</div>
 					)}
-				</section>
+				</section> */}
 			</Container>
 			<HeroBg theme="bg-color-1" />
 		</Section>

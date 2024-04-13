@@ -18,5 +18,10 @@
     "question": "How do I make my documents Section 508 compliant?",
     "answer": "Through 508 Pro you can remediate your documents to be compliant within a reasonable timeframe by submitting an interest form to get a quote today!",
     "isOpen": false
+  },  
+  {
+    "question": "How are Section 508 and FOIA tied together?",
+    "answer": " Section 508 and the Freedom of Information Act (FOIA) intersect in their shared goal of promoting transparency, accessibility, and accountability within the federal government. Section 508 mandates that federal agencies ensure their electronic and information technology (EIT) is accessible to individuals with disabilities. This includes ensuring that digital documents and information are accessible to everyone, regardless of their abilities. FOIA, on the other hand, grants individuals the right to access government records and information held by federal agencies. It aims to promote transparency and accountability by allowing citizens to request and obtain information about government activities, decisions, and policies. The connection between Section 508 and FOIA lies in the accessibility of government information. Ensuring that government documents are digitally accessible, as required by Section 508, enables individuals with disabilities to access information requested under FOIA. This accessibility helps fulfill the goals of FOIA by ensuring that all citizens, regardless of their abilities, have equal access to government records and information.",
+    "isOpen": false
   }
 ]

@@ -37,6 +37,11 @@ export default function Footer(): JSX.Element {
 		<footer className={css.container}>
 			<Container spacing={['verticalXXLrg', 'bottomLrg']}>
 				<section className={css.sections}>
+					<ul className={css.social}>
+						<li>
+							<h4>Owned and Operated by Partly Cloudy LLC</h4>
+						</li>
+					</ul>
 					<ul className={css.links}>
 						<li>
 							<h4>Links</h4>

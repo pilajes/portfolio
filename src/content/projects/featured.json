@@ -32,5 +32,37 @@
 			{ "key": "python", 		"name": "Any Language", 		"type": "devicon" }
 
 		]
+	},
+	{
+		"project": "Excel",
+		"repo": "Public",
+		"descriptionTitle": "Excel document remediation",
+		"description": "at the highest quality to ensure inclusivity and adherence to legal requirements",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "550", "w": "330",  "url": "/img/excel.png" }
+		],
+		"stack": [
+			{ "key": "python", 		"name": "Any Language", 		"type": "devicon" }
+
+		]
+	},
+	{
+		"project": "Powerpoint",
+		"repo": "Public",
+		"descriptionTitle": "Powerpoint document remediation",
+		"description": "at the highest quality to ensure inclusivity and adherence to legal requirements",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "550", "w": "330",  "url": "/img/ppt.png" }
+		],
+		"stack": [
+			{ "key": "python", 		"name": "Any Language", 		"type": "devicon" }
+
+		]
 	}
 ]
